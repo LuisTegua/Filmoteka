@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dimitr-remicio.github.io/Filmoteka1",
+  "homepage": "https://github.com/LuisTegua/Filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka1/"
+    "build": "parcel build src/*.html --public-url /Filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dimitr-remicio/Filmoteka1.git"
+    "url": ""
   },
   "keywords": [],
-  "author": "dimitr remicio <dimitr.darm27@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dimitr-Remicio/Filmoteka1/issues"
+    "url": "https://github.com/LuisTegua/Filmoteka/issues"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
